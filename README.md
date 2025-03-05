@@ -4,7 +4,7 @@
 
 <div id="user-desc">
   <ul align="center">
-    <p style="display: inline-block">I am an undergraduate student in Information Systems and Technology with a passion for UI/UX design. I have strong skills in front-end and back-end development, machine learning, and IoT. As a versatile developer, I create intuitive interfaces, efficient backend systems, and innovative solutions using machine learning and IoT, drawing from my eight-year hobby in robotics.</p>
+    <p style="display: inline-block">I'm an undergraduate student majoring in Information System and Technology with 2+ years of professional experience in Software Engineering. As a Jack of All Trades, I have expertise in UI/UX design, front-end and back-end development, machine learning, and IoT integration, backed by six years in robotics.</p>
   </ul>
 </div>
 
