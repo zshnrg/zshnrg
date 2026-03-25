@@ -4,7 +4,7 @@
 
 <div id="user-desc">
   <ul align="center">
-    <p style="display: inline-block">I'm an final year student majoring in Information System and Technology with 2+ years of professional experience in Software Engineering. As a Jack of All Trades, I have expertise in UI/UX design, front-end and back-end development, machine learning, and IoT integration, backed by six years in robotics.</p>
+    <p style="display: inline-block">I'm an fresh graduate in Information System and Technology currently working at Samsung Research and Development. As a Jack of All Trades, I have expertise in UI/UX design, front-end and back-end development, machine learning, and IoT integration, backed by six years in robotics.</p>
     <p style="display: inline-block">
       💻 Visit my website at <a href="https://rozan.id" target="_blank" rel="noopener noreferrer">rozan.id</a> to explore my projects, experiences, and more!
     </p>
